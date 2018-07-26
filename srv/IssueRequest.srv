@@ -1,0 +1,4 @@
+uint32 requestor_id
+string item_name
+---
+bool status

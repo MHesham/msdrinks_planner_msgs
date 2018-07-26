@@ -1,0 +1,7 @@
+uint32 requestor_id
+---
+uint32 STATUS_INVALID = 0
+uint32 STATUS_PREPARING = 1
+uint32 STATUS_OUT_FOR_DELIVERY = 2
+uint32 STATUS_DELIVERED = 3
+uint32 status
